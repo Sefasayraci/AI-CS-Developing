@@ -1,0 +1,6 @@
+Yapıalcaklar:
+
+1) Kamera modülü stop yaptıktan sonra tekrar aktifleşmemektedir.
+2) OpenCV Gömülecek
+3) Diğer Aşamada modelleme Gömülecek
+4) En son arayüz, geçiş aşamaalrısekmeleri ayarlanacak ve sonlanacak.
